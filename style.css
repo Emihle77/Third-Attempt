@@ -1,0 +1,40 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+
+body{
+  font:15pt;
+  padding: 20px;
+  background: #0AC687;
+color :white;
+text-align: center;
+}
+h1{color:black;
+
+}
+h2{
+  color: red;
+}
+.profile-img{
+  width: 20%;
+  border-radius: 90%;
+}
+p{
+  text-align: left;
+  
+ font-family: 'Croissant One', cursive;
+}
+
+
+.btn{
+  
+  display: block;
+  color: black;
+  padding: 40px;
+  background :white;
+  margin: 10px;
+  box-shadow: 8px 15px darkgreen;
+ 
+}
